@@ -1,0 +1,38 @@
+# Core Python utilities
+python-dotenv
+requests
+
+# Streamlit App
+streamlit
+
+# LangChain Ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-mistralai
+
+# Vector Stores
+faiss-cpu
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Google Gemini API
+google-generativeai
+
+# Mistral API Client
+mistralai
+
+# Document Parsing & Loaders
+pypdf
+pdfplumber
+python-docx
+unstructured
+beautifulsoup4
+
+# Optional Enhancements (recommended)
+tiktoken
+huggingface_hub
